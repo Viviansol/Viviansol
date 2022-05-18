@@ -1,7 +1,8 @@
 
 Olá ! Sejam bem vindos! Eu sou a Vivian Sanches!
 
-- 🔭 Atualmente sou professora de Programação
+- 🔭 Atualmente sou desenvolvedora de software na Mercado Livre. 
+- 🔭Já fui professora de programação
 - 🌱 Estou aprendendo Python, C#, .Net, Node.js , React e Angular. Mas também trabalho com java e springboot.
 - 💬 Meu Linkedin: https://www.linkedin.com/in/vivian-sanches/
 - 📫 Contate-me no email: viviansan93@gmail.com
