@@ -1,7 +1,7 @@
 
 Olá ! Sejam bem vindos! Eu sou a Vivian Sanches!
 
-- 🔭 Atualmente sou desenvolvedora de software na Mercado Livre. 
+- 🔭 Atualmente sou desenvolvedora de software na Mercado Livre. Estou atuando como dev back end utilizando Go lang! 
 - 🔭Já fui professora de programação
 - 🌱 Estou aprendendo Python, C#, .Net, Node.js , React e Angular. Mas também trabalho com java, springboot e Go lang.
 - 💬 Meu Linkedin: https://www.linkedin.com/in/vivian-sanches/
